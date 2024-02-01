@@ -1,0 +1,13 @@
+{
+  "name": "tgoetzgr/SDEV328/week5",
+  "description": "Week5",
+  "authors": [
+    {
+      "name": "tobygoetz",
+      "email": "tngoetz@aol.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
